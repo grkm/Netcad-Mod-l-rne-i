@@ -1,4 +1,4 @@
-# Netcad Modül Örneği
+# Örnek Netcad Modülü
 
 C# ile yapılmış Netcad NCMacro kütüphanesi özelliklerini kullanan basit bir Netcad Modülü.
 
