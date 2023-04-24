@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfUserMenu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<UserMenu>
+    <ID>900</ID>
+    <ExecutedFile>C:\grkm\OrnekModul\NetcadUzunYazi.Grkm.nvb</ExecutedFile>
+    <ButtonName>Netcad Uzun Yazý</ButtonName>
+    <RibbonName>Grkm Menü 1</RibbonName>
+	<GroupName>Netcad Uzun Yazý</GroupName>
+    <IconFile>C:\grkm\OrnekModul\NetcadUzunYazi.Grkm.bmp</IconFile>
+    <ButtonViewIndex>0</ButtonViewIndex>
+    <Priority>0</Priority>
+  </UserMenu>
+</ArrayOfUserMenu>

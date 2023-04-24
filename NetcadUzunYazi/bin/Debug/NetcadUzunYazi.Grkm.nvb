@@ -1,0 +1,7 @@
+sub main
+with netcad
+Dim dll
+Set dll=CreateObject("NetcadUzunYazi.Grkm")
+dll.Show
+end with
+end sub
